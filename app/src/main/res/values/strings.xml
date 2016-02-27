@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PushGCMTest</string>
+
+    <string name="title_activity_notification">NotificationActivity</string>
+    <string name="dummy_button">Dismess</string>
+    <string name="dummy_content">DUMMY CONTENT</string>
+</resources>
